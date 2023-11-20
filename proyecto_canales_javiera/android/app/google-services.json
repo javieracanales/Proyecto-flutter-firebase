@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829172295088",
+    "project_id": "damn-javiera-canales-clase1",
+    "storage_bucket": "damn-javiera-canales-clase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829172295088:android:aa4ac8bce75fe09a042275",
+        "android_client_info": {
+          "package_name": "com.ja123.damn_javiera_canales_clase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9DXALZqCKgJsy1ff-el38tqB6k-rRP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
